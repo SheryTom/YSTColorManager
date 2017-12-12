@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YSTColorManager_Tests' do
+  pod 'YSTColorManager', :path => '../'
+  
+  
+end
