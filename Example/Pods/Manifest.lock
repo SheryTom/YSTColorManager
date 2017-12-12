@@ -1,0 +1,16 @@
+PODS:
+  - YSTColorManager (0.1.0)
+
+DEPENDENCIES:
+  - YSTColorManager (from `../`)
+
+EXTERNAL SOURCES:
+  YSTColorManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YSTColorManager: 4ef820e141c0790eab5efba19f07ac751df1cbee
+
+PODFILE CHECKSUM: 068bb77c52ec2f2d7cd28a0ad7637c72d37731c6
+
+COCOAPODS: 1.4.0.beta.1

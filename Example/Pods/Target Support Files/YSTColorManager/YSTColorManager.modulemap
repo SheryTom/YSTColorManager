@@ -1,0 +1,6 @@
+framework module YSTColorManager {
+  umbrella header "YSTColorManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_YSTColorManager_Tests {
+  umbrella header "Pods-YSTColorManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

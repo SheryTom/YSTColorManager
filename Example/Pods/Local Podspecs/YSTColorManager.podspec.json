@@ -1,0 +1,22 @@
+{
+  "name": "YSTColorManager",
+  "version": "0.1.0",
+  "summary": "A short description of YSTColorManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sherytom/YSTColorManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sherytom": "sherytom"
+  },
+  "source": {
+    "git": "https://github.com/sherytom/YSTColorManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YSTColorManager/Classes/**/*"
+}
